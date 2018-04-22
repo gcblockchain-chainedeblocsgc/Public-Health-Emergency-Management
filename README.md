@@ -1,4 +1,7 @@
 # Public-Health-Emergency-Management
+Description:
+This solution enhances the Government of Canada’s ability to address a public health emergency by bolstering proactive crisis management of an outbreak through blockchain.
+
 
 This project is implemented using Hyperledger Composer playground. 
 https://hyperledger.github.io/composer/latest/
